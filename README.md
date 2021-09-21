@@ -5,6 +5,7 @@ This script was created in December 2019 by me (Giulia Puntin) and used in multi
 
 ## Future directions
 TA is a very useful parameter to understand and study reef-building coral physiology. Specifically it is used to 1) characterize the seawater chemistry and 2) to estimate rates of calcification based on alkalinity anomaly (AA - as the difference in TA before and after an incubation). 
-For these reasons, I believe (and hope) that this script can be useful to other people working on similar topic. To better understand the chemicla and mathermatical logic underlying the calculations I will also provide further documentation and references. 
+For these reasons, I believe (and hope) that this script can be useful to other people in the field. 
+I will also (try my best to) provide further documentation and references necessary to better understand the chemical and mathematical underlyings of the calculations. 
 
 Apologies in advance for the messy code, it will get better soon!
